@@ -1,0 +1,19 @@
+Tutorial Link:
+    http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/
+
+Data link:
+    https://drive.google.com/file/d/0B7-p5eNhYCPwS2NIMjhKMkR5cm8/view?usp=sharing
+
+task:
+    Your task Is to parse the CSV file and group all the Jobs according to the company that posted the jobs. So you create a folder that will contain all the jobs according to the company that posted the jobs.
+
+    When that is done you will go into those individual folders and categorize the jobs from that company into:
+
+    Employment-type.
+    Location.
+    Industry.
+
+    Outline all the behaviors your application will have.
+
+    Create unit tests for all the behaviors.
+    Create doc-strings for the modules, functions and methods
